@@ -1,0 +1,22 @@
+{
+  "name": "NemoSpecDemo",
+  "version": "0.1.0",
+  "summary": "A short description of NemoSpecDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangjie/NemoSpecDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangjie": "wangjienemo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/wangjie/NemoSpecDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NemoSpecDemo/Classes/**/*"
+}

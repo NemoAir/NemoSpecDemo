@@ -1,0 +1,6 @@
+framework module NemoSpecDemo {
+  umbrella header "NemoSpecDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

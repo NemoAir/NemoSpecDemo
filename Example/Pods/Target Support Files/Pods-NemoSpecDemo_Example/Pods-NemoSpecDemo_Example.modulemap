@@ -1,0 +1,6 @@
+framework module Pods_NemoSpecDemo_Example {
+  umbrella header "Pods-NemoSpecDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
